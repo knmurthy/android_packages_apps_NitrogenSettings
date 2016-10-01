@@ -105,10 +105,6 @@
     <string name="powermenu_soundpanel">Звуковая панель</string>
     <string name="powermenu_users">Пользователь</string>
 
-    <!-- MTP Dirty Hack -->
-    <string name="enable_mtp_dirtyhack_title">MTP вместо Зарядки</string>
-    <string name="enable_mtp_dirtyhack_summary">Включить MTP вместо Зарядки при подключении к ПК</string>
-
     <!-- Heads up -->
     <string name="heads_up_notifications">Всплывающие уведомления</string>
     <string name="summary_heads_up_enabled">Включены</string>

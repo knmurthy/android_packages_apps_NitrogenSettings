@@ -107,10 +107,6 @@
     <string name="powermenu_soundpanel">Sound Panel</string>
     <string name="powermenu_users">Users</string>
 
-    <!-- MTP Dirty Hack -->
-    <string name="enable_mtp_dirtyhack_title">MTP instead Charging</string>
-    <string name="enable_mtp_dirtyhack_summary">Enable MTP instead Charging after connect to PC</string>
-
     <!-- Heads up -->
     <string name="heads_up_notifications">Heads up</string>
     <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
